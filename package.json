@@ -32,6 +32,7 @@
     },
     "devDependencies": {
         "eslint": "^6.5.1",
-        "eslint-plugin-vue": "^5.2.3"
+        "eslint-plugin-vue": "^5.2.3",
+        "sequelize-cli": "^5.5.1"
     }
 }

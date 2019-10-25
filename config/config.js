@@ -1,7 +1,7 @@
-{
+module.exports = {
     "development": {
         "username": "root",
-        "password": "Saludesvida2019!",
+        "password": "root",
         "database": "sequelize_barter_db",
         "port": 3306,
         "host": "127.0.0.1",
@@ -17,7 +17,7 @@
         "operatorsAliases": false
     },
     "production": {
-        "use_env-variable":"JAWSDB_URL",
+        "use_env-variable": "JAWSDB_URL",
         "dialect": "mysql"
     },
     "jwt_privatekey": "*privatekey*"

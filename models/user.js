@@ -22,4 +22,4 @@ module.exports = function(sequelize, DataTypes) {
 }
 
 
-// blah
+// have table with user id
